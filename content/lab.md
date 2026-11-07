@@ -2,6 +2,7 @@
 date = '2026-11-06T20:45:23-06:00'
 draft = false
 title = 'Lab'
+hidemeta = true
 +++
 
 My home lab is where I practice the skills behind a SOC analyst role: building systems, monitoring them, breaking them on purpose, and writing up what I find.

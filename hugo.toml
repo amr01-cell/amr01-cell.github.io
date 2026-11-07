@@ -8,7 +8,10 @@ theme = 'PaperMod'
     ShowReadingTime = true
     ShowToc = true
     ShowPostNavLinks = true
-
+[params.homeInfoParams]
+  Title = "Hi, I'm Anik"
+  Content = "Entry-level SOC analyst candidate building detection and GRC skills in a Proxmox home lab. I write up what I build, what breaks, and what I learn."
+  
 [[menu.main]]
     name = "Projects"
     pageRef = "/projects"
