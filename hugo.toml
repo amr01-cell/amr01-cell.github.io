@@ -1,0 +1,23 @@
+baseURL = 'https://amr01-cell.github.io/'
+locale = 'en-us'
+title = 'Anik Rahman'
+theme = 'PaperMod'
+
+[params]
+    description = "Entry-level SOC analyst building detection and GRC skills in a home lab."
+    ShowReadingTime = true
+    ShowToc = true
+    ShowPostNavLinks = true
+
+[[menu.main]]
+    name = "Projects"
+    pageRef = "/projects"
+    weight = 10
+[[menu.main]]
+    name = "Lab"
+    pageRef = "/lab"
+    weight = 30
+[[menu.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 40
